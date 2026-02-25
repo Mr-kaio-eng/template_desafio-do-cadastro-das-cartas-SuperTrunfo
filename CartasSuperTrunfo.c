@@ -37,7 +37,7 @@ printf("\n=== Cadastro da Carta ===\n\n");
 
     printf("Digite o numero de pontos turisticos (sem pontos): ");
     scanf("%d", &pontosTuristicos);
-
+ 
   // Área para exibição dos dados da cidade
 printf("\n\n--- Carta Cadastrada ---\n");
     printf("Estado: %c\n", estado);
