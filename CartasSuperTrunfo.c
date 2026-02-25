@@ -47,6 +47,6 @@ printf("\n\n--- Carta Cadastrada ---\n");
     printf("Area: %.2f km2\n", area);
     printf("PIB: %.2f\n", pib);
     printf("Pontos Turisticos: %d\n", pontosTuristicos);
-    
+  
 return 0;
 } 
